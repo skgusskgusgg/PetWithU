@@ -51,6 +51,17 @@
 #### 스케쥴 및 기능구현 티켓 관리 <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=White"> - FE & BE
 #### 협업 소통 및 자료, 정보 공유 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=trello&logoColor=White"> - FE & BE
 
+# 구현기능
 
+### 상품 디테일 페이지
 
+- 
+
+### 장바구니 페이지
+
+-
+
+### 커뮤니티 글쓰기 페이지
+
+-
 
