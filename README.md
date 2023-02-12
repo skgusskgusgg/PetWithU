@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=a41523&fontColor=f3eadd&height=300&section=header&text=PETWITHU&fontSize=120)
 
+- 인테리어 제품을 커뮤니티 활성화를 이용하여 활발하게 판매하고있는 사이트 (오늘의 집)을 모델링한 프로젝트입니다.
+- petwithU는 반려동물을 사랑하는 사람들이 모여 소통하고 상품을 판매하는 사이트입니다.
+
 # 개발 기간
 
 - 2023.1.30 - 2023.2.10 (2주)
@@ -35,7 +38,6 @@
 |<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>|<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>|<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>|<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>|
 
 # 서비스 소개
-- petwithU는 반려동물을 사랑하는 사람들이 모여 소통하고 상품을 판매하는 사이트 입니다.
 
 - 게시글을 작성하여 하나의 피드를 만들고 작성할 때 사이트에서 구매한 제품을 태그하여 다른 유저가 쉽게 상품에 접근 할 수 있습니다.
 - 유저들이 가볼만한 산책로를 모아서 지역별로 나눠 두어 집근처 산책로를 빠르게 접근 할 수 있습니다.
