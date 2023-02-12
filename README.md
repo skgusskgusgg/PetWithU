@@ -47,9 +47,9 @@
 
 # 협업 툴
 
-### api 관리 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> - BE
-### 스케쥴 및 기능구현 티켓 관리 <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=White"> - FE & BE
-### 협업 소통 및 자료, 정보 공유 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=trello&logoColor=White"> - FE & BE
+#### api 관리 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> - BE
+#### 스케쥴 및 기능구현 티켓 관리 <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=White"> - FE & BE
+#### 협업 소통 및 자료, 정보 공유 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=trello&logoColor=White"> - FE & BE
 
 
 
